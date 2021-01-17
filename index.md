@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Quy - Home Sweet Home"
 ---
 
 ## You're ready to go!
 
-Start developing your Jekyll website.
+It is going to be an awesome place!
